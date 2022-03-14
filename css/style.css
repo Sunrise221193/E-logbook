@@ -14,7 +14,8 @@ body {
 
 .main-title {
     margin-top: 15%;
-    color: #030579;
+    /* color: #030579; */
+    color: #00a650;
     font-size: 6vw;
     font-weight: 700;
     text-align: center;
